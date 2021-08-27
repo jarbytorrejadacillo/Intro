@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jarby
 - 👀 I’m interested in coding, mining
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on newbies like me
 - 📫 How to reach me ...
 
