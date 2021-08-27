@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ybraj1001
+- 👋 Hi, I’m @jarby
 - 👀 I’m interested in coding, mining
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on newbies like me
